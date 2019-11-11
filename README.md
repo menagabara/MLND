@@ -11,5 +11,5 @@ seaborn
 
 You will also need a Jupyter installed.
 
-Kindly Download the dataset from kaggle: https://www.kaggle.com/dalpozz/creditcardfraud/downloads/creditcardfraud.zip and add it to the main directory with the same name: creditcard.csv
+Kindly Download the dataset from kaggle: https://www.kaggle.com/mlg-ulb/creditcardfraud and add it to the main directory with the same name: creditcard.csv
 
